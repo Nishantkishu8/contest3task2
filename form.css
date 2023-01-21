@@ -1,0 +1,60 @@
+.container{
+    display: flex;;
+}
+.title{
+   
+    
+    width: 129px;
+    height: 29px;
+    left: 52px;
+    top: 49px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px; 
+
+}
+.container > div{
+    margin: 60px;
+    padding: 30px;
+}
+.form-control{
+
+
+
+    width: 716px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.radio-btn{
+
+    margin: 20px;
+    padding: 10px;
+}
+.radio1{
+    top:200px;
+}
+#search{
+    top:200px;
+}
+.btn-lft{
+     margin-top: 100px;
+     padding: auto;
+}
+     
+
+
+
+   /* padding: 16px;
+    width:716px;
+    height:61px;
+    top:94px;
+    left:55px;
+    border-radius: 10px;
+    box-sizing: :border-box;
+}
